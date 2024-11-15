@@ -14,15 +14,12 @@ class DmBuilder extends Builder
      * Create a new command set with a Closure.
      *
      * @param  string  $table
-     * @param  \Closure|null  $callback
+     * @param  Closure  $callback
      * @return \Illuminate\Database\Schema\Blueprint
      */
-    protected function createBlueprint($table, ?Closure $callback = null)
+    protected function createBlueprint($table, Closure $callback = null)
     {
-        $connection = $this->connection;
-        $prefix = $connection->getConfig('prefix_indexes') ? $connection->getConfig('prefix') : '';
-
-        $blueprint = new DmBlueprint($connection, $table, $callback);
+        $blueprint = new DmBlueprint($table, $callback);
         $blueprint->setTablePrefix($this->connection->getTablePrefix());
 
         return $blueprint;
