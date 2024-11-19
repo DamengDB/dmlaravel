@@ -47,8 +47,7 @@ class DmBuilder extends Builder
 
     /**
      * Add a new "raw" select expression to the query.
-     * 达梦函数转化
-     *
+     * 
      * @param  string  $expression
      * @param  array  $bindings
      * @return $this
