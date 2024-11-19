@@ -15,8 +15,8 @@
     "require": {
         "php": "^8.2",
         "ext-pdo": "*",
-        "illuminate/database": "^12",
-        "illuminate/pagination": "^12"
+        "illuminate/database": "^11",
+        "illuminate/pagination": "^11"
     },
     "require-dev": {
         "mockery/mockery": "^1.6",
@@ -37,7 +37,7 @@
     },
     "extra": {
         "branch-alias": {
-          "dev-master": "12.x-dev"
+          "dev-master": "11.x-dev"
         },
         "laravel": {
             "providers": [
