@@ -60,4 +60,4 @@ Then run your laravel installation...
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/dmmars/laravel-dm/blob/master/LICENSE) for more information.
