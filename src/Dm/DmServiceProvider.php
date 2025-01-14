@@ -10,6 +10,13 @@ use LaravelDm\Dm\Connectors\DmConnector as Connector;
 class DmServiceProvider extends ServiceProvider
 {
     /**
+     * The laravel-dm version.
+     *
+     * @var string
+     */
+    const VERSION = '11.0.2'
+
+    /**
      * Indicates if loading of the provider is deferred.
      *
      * @var bool
