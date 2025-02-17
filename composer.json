@@ -1,10 +1,10 @@
 {
-    "name": "dmmars/laravel-dm",
+    "name": "dmmars/dmLaravel",
     "description": "php_dm dm8",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/dmmars/laravel-dm/issues",
-        "source": "https://github.com/dmmars/laravel-dm"
+        "issues": "https://github.com/dmmars/dmLaravel/issues",
+        "source": "https://github.com/dmmars/dmLaravel"
     },
     "authors": [
         {

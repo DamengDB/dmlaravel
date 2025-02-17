@@ -1,15 +1,20 @@
-## laravel-dm
+## dmLaravel
 
-​       laravel-dm是用于连接dm数据库的的Laravel的一个包，它是Laravel中illuminate/Database的扩展，用于操作dm数据库并进行一系列的交互。
+​       dmLaravel是用于连接dm数据库的的Laravel的一个包，它是Laravel中illuminate/Database的扩展，用于操作dm数据库并进行一系列的交互。
 
 ## Change Logs
 
-#### Version 11.0.2（2025-01-09）
+#### dmLaravel v11.0.3（2025-02-17）
+
+- 调整了包名为dmLaravel。
+
+#### dmLaravel v11.0.2（2025-01-09）
+
 - 修复了migration日期时间字段默认值的问题
 - 修复了migration数值数据类型精度问题
 - 修复了migration字符数据类型长度超过边界值不报错的问题
-#### Version 11.0.1（2024-12-09）
+#### dmLaravel v11.0.1（2024-12-09）
 - 修复了DB_PORT非法时不报错的问题
 - 修复了表中内容的中文显示乱码的问题
-#### Version 11.0.0（2024-11-09）
+#### dmLaravel v11.0.0（2024-11-09）
 - 创建适配Laravel11的分支
