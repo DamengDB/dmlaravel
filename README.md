@@ -1,5 +1,5 @@
-# dmLaravel
-dmLaravel is a DM Database Driver package for Laravel. dmLaravel is an extension of Illuminate/Database that uses dmpdo extension to communicate with DM. Thanks to @yajra.
+# dmlaravel
+dmlaravel is a DM Database Driver package for Laravel. dmlaravel is an extension of Illuminate/Database that uses dmpdo extension to communicate with DM. Thanks to @yajra.
 
 # Documentations
 You will find user-friendly and updated documentation here: [laravel-Database](https://laravel.com/docs/master/database)  
@@ -15,7 +15,7 @@ Add dmphp to the php:[DMPHP](https://eco.dameng.com/document/dm/zh-cn/pm/php-rog
 ## Quick Installation
 
 ```bash
-composer require dmmars/dmLaravel:^11
+composer require dmmars/dmlaravel:^11
 ```
 
 ## Configuration (OPTIONAL)
@@ -60,4 +60,4 @@ Then run your laravel installation...
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/dmmars/dmLaravel/blob/11.x/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/dmmars/dmlaravel/blob/11.x/LICENSE) for more information.
