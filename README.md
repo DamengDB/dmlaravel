@@ -12,17 +12,6 @@ Add dmphp to the php:[DMPHP](https://eco.dameng.com/document/dm/zh-cn/pm/php-rog
  11.x     | 11.x
  master   | master
 
-## Change Logs
-#### Version 11.0.2（2025-01-09）
-- 修复了migration日期时间字段默认值的问题
-- 修复了migration数值数据类型精度问题
-- 修复了migration字符数据类型长度超过边界值不报错的问题
-#### Version 11.0.1（2024-12-09）
-- 修复了DB_PORT非法时不报错的问题
-- 修复了表中内容的中文显示乱码的问题
-#### Version 11.0.0（2024-11-09）
-- 创建适配Laravel11的分支
-
 ## Quick Installation
 
 ```bash
