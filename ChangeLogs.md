@@ -4,9 +4,10 @@
 
 ## Change Logs
 
-#### dmlaravel v11.0.3（2025-02-17）
+#### dmlaravel v11.0.3（2025-03-03）
 
-- 调整了包名为dmlaravel。
+- 变更了项目到DamengDB，修改了composer.json中的name
+- 调整了包名为dmlaravel
 
 #### dmlaravel v11.0.2（2025-01-09）
 

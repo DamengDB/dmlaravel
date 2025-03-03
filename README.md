@@ -15,7 +15,7 @@ Add dmphp to the php:[DMPHP](https://eco.dameng.com/document/dm/zh-cn/pm/php-rog
 ## Quick Installation
 
 ```bash
-composer require dmmars/dmlaravel:^11
+composer require DamengDB/dmlaravel:^11
 ```
 
 ## Configuration (OPTIONAL)
@@ -60,4 +60,4 @@ Then run your laravel installation...
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/dmmars/dmlaravel/blob/11.x/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/DamengDB/dmlaravel/blob/11.x/LICENSE) for more information.
