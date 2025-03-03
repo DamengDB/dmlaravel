@@ -15,7 +15,7 @@ Add dmphp to the php:[DMPHP](https://eco.dameng.com/document/dm/zh-cn/pm/php-rog
 ## Quick Installation
 
 ```bash
-composer require DamengDB/dmlaravel:^11
+composer require damengdb/dmlaravel:^11
 ```
 
 ## Configuration (OPTIONAL)
