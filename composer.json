@@ -1,10 +1,10 @@
 {
-    "name": "dmmars/dmlaravel",
+    "name": "damengdb/dmlaravel",
     "description": "php_dm dm8",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/dmmars/dmlaravel/issues",
-        "source": "https://github.com/dmmars/dmlaravel"
+        "issues": "https://github.com/DamengDB/dmlaravel/issues",
+        "source": "https://github.com/DamengDB/dmlaravel"
     },
     "authors": [
         {
