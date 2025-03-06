@@ -53,7 +53,7 @@ DB_HOST=localhost
 DB_PORT=5236
 DB_SCHEMA=SYSDBA
 DB_USERNAME=SYSDBA
-DB_PASSWORD=SYSDBA
+DB_PASSWORD=sysDBA*00
 ```
 
 Then run your laravel installation...
