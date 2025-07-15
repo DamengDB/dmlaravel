@@ -14,7 +14,7 @@ class DmServiceProvider extends ServiceProvider
      *
      * @var string
      */
-    const VERSION = '12.0.3';
+    const VERSION = '12.0.4';
 
     /**
      * Indicates if loading of the provider is deferred.

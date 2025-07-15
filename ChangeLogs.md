@@ -4,6 +4,10 @@
 
 ## ChangeLogs
 
+#### dmlaravel v12.0.4（2025-07-15）
+
+- 修复了连接时报错的问题
+
 #### dmlaravel v12.0.3（2025-03-03）
 
 - 变更了项目到DamengDB，修改了composer.json中的name
